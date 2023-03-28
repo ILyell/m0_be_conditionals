@@ -60,21 +60,28 @@ puts 'Is number_students less then or equal to 21?', number_students <= 21
 # Make sure YOU can explain it that way!
 
 puts 4 < 9
-#YOU DO: Explain.
+# YOU DO: Explain.
+# Prints a true or false of the condition of 4 being less then 9, which would return true.
 
 books = 3
 puts 4 < books
 # YOU DO: Explain.
+# Creates the 'books' variable and assigns it the integer 3. 
+# Prints a true or false of the condition that the number in 'books' is greater then 4, which would return false.
 
 friends = 6
 siblings = 2
 puts friends > siblings
 # YOU DO: Explain.
+# Creates the variables 'friends' and 'siblings' then assigns integers to them.
+# Prints a true or false of the conditon of 'friends' beings greater than 'siblings', which would return true.
 
 attendees = 9
 meals = 8
 puts attendees != meals
 # YOU DO: Explain.
+# Creates the variables 'attendees' and 'meals' and assigns them integers.
+# Prints a true or false of the condition of 'attendees' is not equal to 'meals'. This would return true.
 
 
 #-------------------
